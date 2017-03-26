@@ -1,0 +1,15 @@
+.textarea {
+	width: 200px;
+    height: 80px;
+    padding: 10px;
+    color:darkblue;
+}
+table{
+     width: 100%;
+    margin-top:15px;
+}
+table tr td{
+   
+    border: 1px solid #ccc;
+    padding: 5px;
+}
